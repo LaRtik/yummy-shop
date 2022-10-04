@@ -11,6 +11,7 @@
 - All orders stored in admin panel
 - Docker (+ docker compose)
 - Mail distribution for all users when new discount added (+async).
+- Frontend based on Bootstrap5.
 
 
 Now the website is hosted on heroku.
